@@ -2,6 +2,8 @@
 
 This is an addon starter template with [RequireJS](http://requirejs.org/) for the [Ionic Framework](http://ionicframework.com/).
 
+![ionic-starter-requirejs](https://cloud.githubusercontent.com/assets/2264672/9639233/58bad3f8-51ab-11e5-81b4-db58a583503b.jpg)
+
 ## How to use this template
 
 To use this, either create a new ionic project using the ionic node.js utility, or copy and paste this into an existing Cordova project.
