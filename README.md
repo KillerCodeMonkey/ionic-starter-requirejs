@@ -25,3 +25,7 @@ But you can structure your app as you want --> no need to split everything in se
 Additionally you can use the packaging tool [almond](https://github.com/jrburke/almond) to build own releases (uglified, minified and packaged in one file).
 
 For a simple way to use you can install grund-cli and use [grunt-contrib-requirejs](https://github.com/gruntjs/grunt-contrib-requirejs)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/KillerCodeMonkey/ionic-starter-requirejs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
